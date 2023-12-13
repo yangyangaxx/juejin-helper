@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  COOKIE: ttwid=1%7CmgkNMn5QC1DbEdHvaLwCr_TvB_86qfdNgFBeJhDLR_8%7C1694587614%7C5ec27019317824b1858d46372451425cdd0d86bf2857b45775c717a3f2fe4372; msToken=wyn3bzSsHQvJ08N-hPIG_sGwXvIMNWIFZSKI6A5ACCJRxdD_8D6ZwRHBTiRXH3khmuq5TdxZbsvHqbbjk8nnXxJeSjh3ynC8a7oVJsRHyHWHwXMbFydi2OjNggbT2s8=
+  COOKIE: __tea_cookie_tokens_2608=%257B%2522web_id%2522%253A%25227222844712410056229%2522%252C%2522user_unique_id%2522%253A%25227222844712410056229%2522%252C%2522timestamp%2522%253A1681699589099%257D; odin_tt=beaac45c44f0389ecf15f40f7af15da2fb37a3bbce434e83b497681c370d4c8f11eaa9441538abed9d1cf2e4df4ca078e90c917f27fdca7c189394a8b8829d44; sid_guard=a77f2daeb796b82c3cfc60ee851014c4%7C1681866395%7C31536000%7CThu%2C+18-Apr-2024+01%3A06%3A35+GMT; uid_tt=904dbbaeb5f1c6e68ea3e92152732ed5; uid_tt_ss=904dbbaeb5f1c6e68ea3e92152732ed5; sid_tt=a77f2daeb796b82c3cfc60ee851014c4; sessionid=a77f2daeb796b82c3cfc60ee851014c4; sessionid_ss=a77f2daeb796b82c3cfc60ee851014c4; sid_ucp_v1=1.0.0-KDExOTc2N2QzMGJkMGMyN2FjNzFlNTE5ZjAxMTE1ZGExNmU5MWRhNGMKFwiNpJCfv8zoARCb_fyhBhiwFDgCQOwHGgJsZiIgYTc3ZjJkYWViNzk2YjgyYzNjZmM2MGVlODUxMDE0YzQ; ssid_ucp_v1=1.0.0-KDExOTc2N2QzMGJkMGMyN2FjNzFlNTE5ZjAxMTE1ZGExNmU5MWRhNGMKFwiNpJCfv8zoARCb_fyhBhiwFDgCQOwHGgJsZiIgYTc3ZjJkYWViNzk2YjgyYzNjZmM2MGVlODUxMDE0YzQ; store-region=cn-gd; store-region-src=uid; _tea_utm_cache_2608={%22utm_source%22:%22gold_browser_extension%22}; _tea_utm_cache_2018={%22utm_source%22:%22gold_browser_extension%22}; csrf_session_id=90f474faedb5c267f3545be98ee28508; msToken=BOVHEee6J0YZBBflQT1DRh5haOJTdEcpKQtahg63O1QPlrq-wMqSfKWsIwpkDqbBuE8SDNwvvrVT1URpUYb2oAHssQ-bnvYynbiyO7Z_irsPJJxS47BgW7yDfu6zaKI=
   COOKIE_2: ${{ secrets.COOKIE_2 }}
   COOKIE_3: ${{ secrets.COOKIE_3 }}
   COOKIE_4: ${{ secrets.COOKIE_4 }}
